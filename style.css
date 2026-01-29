@@ -12,7 +12,7 @@ body {
     background-color: #fff;
     padding: 40px 50px;
     border-radius: 10px;
-    box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+    box-shadow: 0 6px 20px black;
     max-width: 600px;
     width: 100%;
 }
@@ -45,7 +45,7 @@ input, select, textarea {
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
-    border: 1px solid #ccc;
+    border: 1px solid grey;
     border-radius: 6px;
     box-sizing: border-box;
 }
